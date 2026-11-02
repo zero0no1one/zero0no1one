@@ -9,7 +9,7 @@
 - 🔭 Currently working on: **Secret**
 - 📚 Currently learning: **Binary** **Exploitation**
 - 🎯 Goal: **Penetration Tester**
-- 💬 Ask me about: **Anythin**
+- 💬 Ask me about: **Anything**
 ---
  
 ## Tech Stack
