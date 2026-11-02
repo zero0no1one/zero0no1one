@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm EDZEL 👋
+ 
+🎓 Student · 💻 Studying Computer Scince · 👾 Aspiring CyberSecurity Engineer
+ 
+---
+ 
+## About Me
+ 
+- 🔭 Currently working on: **Secret**
+- 📚 Currently learning: **Binary** **Exploitation**
+- 🎯 Goal: **Penetration tester**
+- 💬 Ask me about: **Anythin**
+---
+ 
+## Tech Stack
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,bash,cpp,c,git,github,vscode" alt="tech stack" />
+</p>
 
-<!--
-**zero0no1one/zero0no1one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+ 
+## GitHub Stats
+ 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
+</p>
 
-Here are some ideas to get you started:
+### Streak
+ 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ 
+## Connect With Me
+ 
+<p align="left">
+  <a href="mailto:none.asked121@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/edzel-manalo-98563842b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+ 
+<p align="center">Thanks for stopping by! ⭐</p>
+ 
