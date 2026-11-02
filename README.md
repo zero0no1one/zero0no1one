@@ -23,8 +23,8 @@
 ## GitHub Stats
  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zero0no1one&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero0no1one&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr.No_One&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr.No_One&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### Streak
  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Mr.No_One&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
