@@ -1,6 +1,6 @@
 # Hi, I'm EDZEL 👋
  
-🎓 Student · 💻 Studying Computer Scince · 👾 Aspiring CyberSecurity Engineer
+🎓 Student · 💻 Studying Computer Scince · 👾 Aspiring CyberSecurity Pen Tester
  
 ---
  
@@ -8,7 +8,7 @@
  
 - 🔭 Currently working on: **Secret**
 - 📚 Currently learning: **Binary** **Exploitation**
-- 🎯 Goal: **Penetration tester**
+- 🎯 Goal: **Penetration Tester**
 - 💬 Ask me about: **Anythin**
 ---
  
